@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ronygol
-- 👀 I’m interested in ...estudar
+- 👀 I’m interested in ...terminar o curso
 - 🌱 I’m currently learning ...sobre pensamento computacional
 - 💞️ I’m looking to collaborate on ...estou buscando colaborar nesse projeto de pensamento computacional
 - 📫 How to reach me ...rony.braga@escola.pr.gov.br
